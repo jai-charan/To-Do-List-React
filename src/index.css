@@ -1,0 +1,33 @@
+body {
+  
+  background-color: rgba(24, 27, 45, 0.866);
+}
+
+
+.header{
+  text-align: center;
+  font-style:italic;
+  font-size: 50px;
+  color: white;
+}
+.todolist{
+  font-size: 25px;
+  color: white;
+  margin-top: 5px;
+  cursor: pointer;
+}
+.empty-list{
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+.clear-button{
+  font-size: larger;
+  align-content: center;
+  color:  rgba(24, 27, 45, 0.866);
+  margin-left: 370px;
+  cursor: pointer;
+}
+.strike{
+  text-decoration: line-through;
+}
